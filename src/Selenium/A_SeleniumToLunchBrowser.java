@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
-public class SeleniumToLunchBrowser {
+public class A_SeleniumToLunchBrowser {
 
 	public static void main(String[] args) {
 		
@@ -16,8 +16,8 @@ public class SeleniumToLunchBrowser {
 		driver.get("https://www.saucedemo.com/v1/");
 		driver.close();
 		//there is slight difference in close and quite method 
-		//close :- will close current driver tab which is open due to automation 
-		//quite :- will close all the driver tab which are opened due to automation.
+		//close :- will close current  browser tab which is open due to automation 
+		//quite :- will close all the browser tabs which are opened due to automation.
 		
 		System.setProperty("webdriver.edge.driver", "D:\\SeleniumWorkspace\\Automation\\Resources\\msedgedriver.exe");
 		WebDriver driver1=new EdgeDriver();

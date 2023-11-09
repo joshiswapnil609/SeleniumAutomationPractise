@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebElement;
 
-public class ImplicitlyWait {
+public class L_ProductAddToCartAssignment {
 	
 	 
 	public static void main(String[] args) throws InterruptedException {
@@ -36,10 +36,10 @@ public class ImplicitlyWait {
 		//Hence we need to provide implicity wait to wait for some time to load the element and then continue
         driver.findElement(By.cssSelector("input.promoCode")).sendKeys("rahulsheetyacademy");
 		
-        System.out.println("Hi coupon code pasted");
         
         
-        driver.close();
+        
+//        driver.close();
 
 	}
 

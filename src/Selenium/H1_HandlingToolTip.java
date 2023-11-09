@@ -8,10 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-
-
-
-public class HandlingToolTip {
+public class H1_HandlingToolTip {
 
 	public static void main(String[] args) {
 

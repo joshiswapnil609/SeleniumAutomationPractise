@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
-public class Enable_orNot {
+public class J_Enable_orNot {
 
 	public static void main(String[] args) throws InterruptedException {
 

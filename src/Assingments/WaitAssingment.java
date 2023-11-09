@@ -1,4 +1,4 @@
-package Selenium;
+package Assingments;
 
 import java.time.Duration;
 import java.util.Arrays;

@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class StaticDropdown {
+public class E1_StaticDropdown {
 
 	public static void main(String[] args) {
 		

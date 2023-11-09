@@ -7,7 +7,7 @@ import org.testng.Assert;
 
 import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
 
-public class StaticDropdown2 {
+public class E2_StaticDropdown2 {
 
 	public static void main(String[] args) {
 

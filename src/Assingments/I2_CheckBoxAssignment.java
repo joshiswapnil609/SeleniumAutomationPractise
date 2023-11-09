@@ -1,4 +1,4 @@
-package Selenium;
+package Assingments;
 
 import java.time.Duration;
 import java.util.List;
@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
-public final class CheckBoxAssignment {
+public final class I2_CheckBoxAssignment {
 
 	
 	public static void main(String[] args) throws InterruptedException {

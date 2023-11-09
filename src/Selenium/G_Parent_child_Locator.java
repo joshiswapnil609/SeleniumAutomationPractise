@@ -9,7 +9,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Parent_child_Locator {
+public class G_Parent_child_Locator {
 
 	public static void main(String[] args) {
 		

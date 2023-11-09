@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class BrowserNavigationMethods {
+public class D_BrowserNavigationMethods {
 
 	public static void main(String[] args) {
 		

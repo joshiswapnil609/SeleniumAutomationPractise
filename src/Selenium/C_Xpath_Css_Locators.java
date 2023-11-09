@@ -12,7 +12,7 @@ import org.testng.Assert;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Xpath_Css_Locators {
+public class C_Xpath_Css_Locators {
 
 	public static void main(String[] args) throws InterruptedException {
 
